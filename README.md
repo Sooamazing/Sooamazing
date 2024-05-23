@@ -9,7 +9,10 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sooamazing&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-
+<!--
+꾸준한 스트릭.. 그것만이 나의... 자랑...<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bye_world)](https://solved.ac/bye_world)<br/>
+-->
 <!--
 **Sooamazing/Sooamazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
