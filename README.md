@@ -1,5 +1,13 @@
 ## Sooamazing Programming Summary 
 <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 현재 관심사 </h2>
+        <p> 객체 지향, 시스템, 개발 시 영어 사용하기</p>
+    <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 기록물 </h2>
+        <a href="https://noquestionsandendlesssupport.vercel.app">
+            <img src="https://img.shields.io/badge/Blog-50B0E9?style=for-the-badge&logo=countingworkspro&logoColor=white">
+        </a>
+    <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
         <h4 align="center">used at the main</h4>
             <p align="center">
@@ -24,6 +32,7 @@
                 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp 
                 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
             </p>
+    <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align= "center"> 
             <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,12 +42,10 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=Sooamazing&show_icons=true&theme=material-palenight&hide_border=true&bg_color=60,c8e1f9,ffffff&icon_color=58A6FF&text_color=000000&title_color=000000&count_private=true" width=56% />
             </a>
         </div> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 알고리즘 풀이 </h2> 
-    
+    <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 알고리즘 풀이 </h2> 
+        
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bye_world)](https://solved.ac/bye_world)<br/>
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 현재 공부 중 </h2>
-<p> 객체 지향, 시스템, 개발 시 영어 사용하기</p>
 
 </div>
 
