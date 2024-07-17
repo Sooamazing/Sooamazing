@@ -34,6 +34,9 @@
             </p>
     <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div id="header" align="center">
+          <img src="https://komarev.com/ghpvc/?username=Sooamazing&style=for-the-badge&color=orange" alt=""/>
+        </div><br/>
         <div align= "center"> 
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooamazing&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=60,c8e1f9,ffffff&icon_color=58A6FF&text_color=000000&title_color=000000&count_private=true" width=38% />
