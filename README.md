@@ -49,6 +49,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 알고리즘 풀이 </h2> 
         
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bye_world)](https://solved.ac/bye_world)<br/>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/honang515?ext=activity)](https://leetcode.com/honang515)
 
 </div>
 
