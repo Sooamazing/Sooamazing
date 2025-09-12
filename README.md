@@ -1,32 +1,28 @@
 <!-- Sooamazing Programming Summary -->
-<div align="center"> <h1> <img src="https://github.com/user-attachments/assets/0b549acb-40ac-4e10-a6d4-7c843c7fe76c" alt="Sooamazing Logo - ghost" width="30" height="30"> Sooamazing</h1> <p> <b>Passionate Developer Always Learning</b> | Open Source, Accessibility, and Meaningful Work Enthusiast<br><b>매일 배우는 개발자</b> | 웹 접근성, 오픈소스, 의미 있는 일에 관심이 많아요!</p> </div>
+<div align="center"> <h1> <img src="https://github.com/user-attachments/assets/0b549acb-40ac-4e10-a6d4-7c843c7fe76c" alt="Sooamazing Logo - ghost" width="30" height="30"> Sooamazing</h1> <p> <b>Passionate Developer Always Learning</b> | Open Source, Accessibility, and Meaningful Work Enthusiast<br></p> </div>
 
-## 🧑‍💻 About Me | 소개
+<div align="center"> 
+  <a href="./README.ko.md">한국어</a>
+</div>
 
-**English**
+## 🧑‍💻 About Me 
 
 - **💡 Exploring with Curiosity:** I love asking "Why?" and don't hesitate to dive in and try out new technologies and ideas firsthand to find my own answers.
 - **🛠️ Learning by Doing:** I move beyond theory by building small pieces of code to test my assumptions and validate my understanding.
 - **🌵 Growing with Consistency:** The mantra "Slow is smooth, and smooth is fast" **guides my approach.** I'm convinced that steady, incremental progress each day leads to the most robust and rapid growth in the long run.
 - **🤝 Creating Synergy Together:** I **find great satisfaction in** creating and participating in study groups to share knowledge and grow alongside my peers.
 
-**한국어 (Korean)**
+### ✨ Interests
 
-- **💡 호기심으로 탐구하기:** '왜?'라는 질문을 던지는 것을 좋아하며, 새로운 기술이나 아이디어가 생기면 주저 없이 직접 시도하며 답을 찾아갑니다.
-- **🛠️ 직접 실행하며 배우기:** 개념을 익히는 데 그치지 않고, 작은 코드 조각이라도 직접 만들어보며 가설을 세우고 검증하는 과정을 통해 배웁니다.
-- **🌵 꾸준함으로 성장하기:** 'Slow is smooth, smooth is fast'라는 말을 **항상 되새깁니다.** 매일 조금씩 나아가는 꾸준함이 결국 가장 빠르고 단단한 성장을 만든다고 생각합니다.
-- **🤝 함께 배우며 시너지 내기:** 혼자보다는 함께 배우는 것을 **중요하게 생각합니다.** 동료들과 스터디를 만들고 참여하며 지식을 나누고 함께 성장하는 과정에서 **큰 보람을 느낍니다.**
+- **Web Accessibility (A11y)**
+- **Continuous Learning**
+- Open Source Collaboration
+- Readable & Extensible Code
+- Reading Something (novels, articles, etc.), Exercise
+- Volunteering & Helping Others
+<br>
 
-### ✨ Interests | 관심사
-
-- **Web Accessibility (A11y) | 웹 접근성**
-- **Continuous Learning | 꾸준한 배움**
-- Open Source Collaboration | 오픈소스 협업
-- Readable & Extensible Code | 가독성과 확장성 있는 코드
-- Reading Something (novels, articles, etc.), Exercise | 읽기 (소설, 기사 등 글로 된 모든 것), 운동
-- Volunteering & Helping Others | 봉사와 나눔
-
-## 🛠️ Tech Stack | 기술 스택
+## 🛠️ Tech Stack
 
 | Category                   | Technologies     |
 | -------------------------- | ---------------- |
@@ -48,6 +44,7 @@
 | **Communication**       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" alt="Notion" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="50" alt="Slack" /> <img src="https://skillicons.dev/icons?i=discord&theme=light" width="50" alt="Discord"/> <img src="https://skillicons.dev/icons?i=obsidian&theme=light" width="50" alt="Obsidian"/> |
 
 </details>
+<br>
 
 ## 📈 Stats 
 
@@ -71,17 +68,16 @@
 <a href="https://leetcode.com/Sooamazing/">
 <img src="https://leetcard.jacoblin.cool/honang515" alt="LeetCode Stats" width="50%"/>
 </a>
-<br>
-For more algorithm solutions, check my pinned gists and repositories! <br>
-더 많은 알고리즘 관련 기록은 pinned gist와 <a href="https://github.com/Sooamazing/Algorithm">저장소</a>에서 확인해 주세요!
+<br><br>
+For more algorithm solutions, check my pinned gists and <a href="https://github.com/Sooamazing/Algorithm">repositories</a>! <br>
 
 </div>
 
+<br>
 
 ## 📬 Contact & Blog
 
 > Let's learn, build, and grow — one step at a time! Always happy to connect and chat! If you have fun or valuable suggestions, feel free to reach out anytime 😊  
-> 배우면서 같이 성장해요! 언제든 재밌고, 좋은 제안 있다면 연락 주세요! 대환영~!
 
 <div align="center">
   <a href="https://noquestionsandendlesssupport.vercel.app">
